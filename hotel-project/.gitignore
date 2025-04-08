@@ -1,0 +1,16 @@
+# IDE 配置文件
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# 编译输出文件
+target/
+build/
+out/
+bin/
+
+# 系统或本地环境文件
+.DS_Store
+*.log
+*.env
